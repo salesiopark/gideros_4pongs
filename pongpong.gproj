@@ -1,0 +1,18 @@
+<project>
+ <properties orientation="0" winrt_package="com.yourdomain.yourapp" assetsOnly="0" windowWidth="0" touchToMouse="1" osx_domain="giderosmobile.com" android_template="0" osx_org="GiderosMobile" logicalWidth="640" iosDevice="0" encryptCode="0" retinaDisplay="0" mouseTouchOrder="0" logicalHeight="1136" win_domain="giderosmobile.com" scaleMode="3" win_org="GiderosMobile" packageName="com.yourdomain.yourapp" version_code="1" encryptAssets="0" windowHeight="0" fps="60" autorotation="0" version="1.0" architecture="0" html5_host="" mouseToTouch="1" ios_bundle="com.yourdomain." osx_bundle="com.yourdomain." winrt_org="GiderosMobile">
+  <imageScales/>
+ </properties>
+ <file source="scn_ingame.lua"/>
+ <file source="scn_start.lua"/>
+ <folder name="img">
+  <file source="vbar.png"/>
+  <file source="ball.png"/>
+  <file source="bar.png"/>
+ </folder>
+ <folder name="classes">
+  <file source="bar.lua"/>
+  <file source="ball.lua"/>
+  <file source="scenemanager.lua"/>
+ </folder>
+ <file source="main.lua"/>
+</project>
